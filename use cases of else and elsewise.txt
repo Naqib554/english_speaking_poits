@@ -1,0 +1,23 @@
+1)Alternative Choices:
+"I don't like coffee; what else do you have to drink?"
+
+2)Sequential Ordering:
+"First, we'll finish this task; then, we'll see what else needs to be done."
+
+3)Request for Additional Information:
+"Tell me about your hobbies. What else do you enjoy doing in your free time?"
+
+4)Negation or Exclusion:
+"I only have $10; I don't have anything else to give."
+
+5)Inclusion:
+"We invited Tom and Emily. Is there anyone else you'd like to invite?"
+
+6)Time:
+"I waited for an hour, but she didn't show up. What else could I do?"
+
+'Elsewise':
+ refers to an alternative or different way of doing something. 
+example:I’ll try to fix the car, elsewise I’ll call a mechanic” means “I’ll try to fix the car myself, but if I can’t, I’ll call a mechanic instead.”
+
+

@@ -1,0 +1,39 @@
+How: Asks about the way or method.
+
+Example: How do you ride a bike?
+How many: Asks about the number of countable things.
+
+Example: How many cookies do you have?
+How much: Asks about the amount of something uncountable.
+
+Example: How much sugar is in the bowl?
+How many times: Asks how often something happens.
+
+Example: How many times have you been to the beach?
+How far: Asks about the distance between places.
+
+Example: How far is the park from here?
+How long: Asks about the duration of time.
+
+Example: How long is the movie?
+As: Shows similarity or equality.
+Example: She is as fast as a cheetah.
+
+As many: Shows equality in countable quantity.
+Example: I have as many toys as you.
+
+As much: Shows equality in quantity for uncountable things.
+Example: Can I have as much ice cream as you?
+
+As many times: Shows equality in frequency.
+Example: I've called you as many times as you called me.
+
+As far: Shows equality in distance.
+Example: The store is not as far as I thought.
+
+As long: Shows equality in duration.
+Example: Can you stay as long as you want?
+
+
+
+
