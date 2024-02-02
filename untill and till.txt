@@ -1,5 +1,5 @@
-use cases of untill and unless:
-(after the second clause of these two wrods alway be in the presnet simple tense)
+untill=till : these two words have same meaning and always use interchangebally.
+untill and unless:(after the second clause of these two wrods alway be in the presnet simple tense)
 
 untill(ksy haas waqt tk)(one action depend on the other, the first action can't happen untill the second action complete 
 in the bellow sentence).(It refers to a specific point in time.)
@@ -11,12 +11,6 @@ example_5:Example: "I will wait here until you come back."
  (I will wait during the time period up to the moment you return.)
 
 
-unless(jb tuk kih na)If not=unless
-"Unless" is used to introduce a condition that will result in an event happening or not happening.
-
-example_1:you can't pass the exame unless you work hard.
-Example: "I will go to the party unless I am feeling unwell."
- (I will go to the party if I am not feeling unwell.)
 
 
 

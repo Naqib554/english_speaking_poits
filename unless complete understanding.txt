@@ -1,0 +1,23 @@
+X depends on y
+He doesn't call me, IF I don't call him first.
+remove negative:
+He doesn't call me, IF I call him first.
+remove 'if' with 'unless'
+He doesn't call me, unless I call him first.
+
+
+example_2:you can't get better if you don't practice speaking.
+remove nagative:
+you can't get better if you practice speaking.
+remove 'if' with 'unless
+you can't get better unless you practice speaking.
+
+example_3;They won't come unless you invite them.
+
+
+
+When unless precedes the main clause, use a comma:
+Example: Unless it rains, we’ll go for a picnic by the river tomorrow.
+: Unless I hear from you, I’ll see you at two o’clock
+
+
