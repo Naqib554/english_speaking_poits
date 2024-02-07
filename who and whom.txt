@@ -3,6 +3,7 @@ who and whom:
 who=subjective pronoun
 whom= objective pronoun
 
+note: 'who' use in informal conversation instead of "whom"
 
 example_1: My friend who love me.(is sentence ma 'love' mera friend krta hain muj se)
 example_2: my friend whom I love .(is sentence ma 'love' ma krta houn apna friend se)
@@ -27,10 +28,13 @@ For whom are you cooking?
 To whom did you lend your book?
 
 
-or we can place the preposition at the end of the sentence.
-example_1:whom do you go to.
+or we can place the preposition at the end of the sentence as well.
+formal way:example_1:whom do you go to.
+Informal way:example_1: who do you go to?
 example_2:whom are you going  with?
+informal way: who are you going with?
 whom are you cooking For?
+informal  way: who are you cooking for?
 
 
 
