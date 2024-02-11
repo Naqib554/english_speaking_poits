@@ -2,7 +2,9 @@ should:
 -->used to give advice
 you look sick. you should see a doctor.
 
+
 Shoud have: 
+formula:sub+should+have+v2+obj
 --> used to recommend/advice/suggest a different action in the past
 example:you should've bought computers when it was on sale.
 example:I should've studied hard when I was it school for geting high marks.
@@ -10,12 +12,64 @@ example:I should've studied hard when I was it school for geting high marks.
 
 -->used to express regret
 I should've studiet for the test.(I did not study and in this example I regret about my past)
+I should've invited you.
+
+
+
+
+Could have:
+-->1)used to talk about alternative possibilities in the past.
+-->things that didn't happen but may be could have happened.
+example : you could have been a doctor if you'd studied hard in the school.(in this example the reality you didn't study hard in the school
+and therefore you didn't become a doctor)(it was possible for you to become a doctor if you studied harder but you didn't)
+
+
+
+-->2)used to talk about imaginary satuation in the past.
+example: please drive more carefully .you could've killed us.
+
+Conditional statements:
+"If I hadn't missed the bus, I could have arrived on time."
+"They could have won the tournament if they had trained harder."
+
+Contrasting options:
+"She could have ordered pizza instead of making dinner."
+"He could have bought the blue car instead of the red one."
+
+
+Regrets or missed opportunities:
+"I could have pursued a different career path."
+"We could have visited Europe last summer if we had saved more money."
 
 
 
 
 
+would:
+-->used to imagine result.
+example_1: If I were taller , I would be better at sports.
 
+would have:
+-->used to imagin result in the past if things were different
+-->more cetain than could have. could have like may be but would have mean we are very sure about something.
+example: If I had reached to the class on time , I wouldn't have absent.(this sentece show like I am very sure about the past condition)
+example: I'd gotten one more question correct, I would have passed the test,"
+ 
+
+
+Here are some common situations where "would have" is used:
+
+Conditional statements about the past:
+"If I had studied harder, I would have passed the exam."
+"She would have bought the dress if it had been on sale."
+
+Regrets or missed opportunities:
+"I would have traveled more when I was younger if I had the chance."
+"We would have won the game if we had played better."
+
+Hypothetical scenarios:
+"He would have been late if he hadn't caught the earlier train."
+"They would have missed the flight if they had left home later."
 
 
 
