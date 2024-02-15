@@ -29,5 +29,10 @@ example_2:yesterday my father told me, you would be speaking well after some mon
 The speaker is reporting what someone said about a future event in the past.
 
 
+polite request:
+would you be able to help me with this?
+would you be interested to join us for dinner?
+Would you like to be a part of our startup?
+
 
 
