@@ -1,3 +1,22 @@
+be:(hona)
+
+present form of be:(is,am,are,has)
+past form of be :(was,were,had)
+future form of be :(will,shall)
+participle form of be :(being ,been)
+
+
+being=condition
+He felt weak after being sick.
+"Being" is the present participle form of the verb "to be." 
+It is used in continuous tenses (present continuous, past continuous, future continuous) 
+to indicate an ongoing action or state.
+Example: "She is being very helpful today." (present continuous)
+Example: "They were being noisy during the movie." (past continuous)
+Example: "He will be being interviewed tomorrow." (future continuous)
+
+
+
 
 1)Existence:
 
@@ -18,7 +37,6 @@
 "It will be Friday tomorrow."
 
 5)Commands and suggestions:
-
 "Be quiet."
 "Be careful with that glass."
 
