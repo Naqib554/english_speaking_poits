@@ -1,10 +1,103 @@
+Active Voice and Passive Voice:
+Active voice emphasizes the doer of the action, while passive voice highlights the receiver of the action.
+
 Active Voice:
 someone/something doing something.
 Example:Naqib saw green valley.
 
 
-passive voice:
-something is happening to someone
-Example:The valley was seen.
+passive voice use cases:
+(we use passive voice when we don't know who did something/we don't care who did something / 
+and sometime we use it we don't want to say who did something)
+
+(something is happening to someone)
+1)Example:The valley was seen.(this sentence doesn't express the person/persons who saw the valley)
+example: my bag was stolen.(in this we don't care about the person who was that person 
+we only care about the action. I don't really care who it was that took it).
+2)example:someone stole my bag.
+example:my bag was stolen.(these both sentences have same meaning)
+
+
+3)example:naqib made mistake.(intead of that sentence you can say the bellow sentence if you hide the subject and only focus on the action that mad)
+3)example: the mistake was mad.
+
+
+
+
+
+prsent indifinit tense:
+act voice: people eat food.
+passive voice: The food is eaten.
+
+
+act voice: He has completed the project.
+passive voice: The project has been completed. 
+
+
+
+
+Active voice and Pasive voice points:
+1)porpouse:it's porpouse to hide the subject of a sentence.
+for instance: the meal is eaten by him.
+
+2)No change:the intransitive verb doesn't change into the pasive voice,
+and also the sentence which include any preposition that sentence never be changed to pasive voice.
+for instance:he sleeps.
+he goes to school.
+the first sentence include intransitvie verb and the second sentence contains preposition.
+
+
+3)Subject pronouns in active voice (e.g., I, you, he, she, it, we, they)
+ change to object pronouns in passive voice (e.g., me, you, him, her, it, us, them).
+
+4)Possessive pronouns in active voice (e.g., my, your, his, her, its, our, their) 
+change to possessive determiners in passive voice (e.g., my, your, his, her, its, our, their).
+
+5)Reflexive pronouns in active voice (e.g., myself, yourself, himself, herself, itself, ourselves, yourselves, themselves)
+ remain the same in passive voice.
+
+Transitive verb: A verb that requires an object to complete its meaning and make sense in a sentence.
+ For example: "He eats pizza." (The verb "eats" requires an object, in this case, "pizza," to complete the meaning.)
+
+Intransitive verb: A verb that does not require an object to complete its meaning and can make sense on its own in a sentence.
+ For example: "She sleeps." (The verb "sleeps" does not require an object to complete its meaning.)
+
+
+
+
+
+
+Present Simple:
+Active: They clean the house every week.
+Passive: The house gets cleaned every week.
+
+Present Continuous:
+Active: They are painting the room.
+Passive: The room is getting painted.
+
+Present Perfect:
+Active: She has fixed the car.
+Passive: The car has been fixed.
+
+Past Simple:
+Active: He got paid last Friday.
+Passive: He was paid last Friday.
+
+Past Continuous:
+Active: They were repairing the roof.
+Passive: The roof was being repaired.
+
+Past Perfect:
+Active: They had finished the work.
+Passive: The work had been finished.
+
+Future Simple:(we include the  word "be" in passive voice when change future simple active voice into passive voice)
+Active: They will deliver the package tomorrow.
+Passive: The package will be delivered tomorrow.
+
+Future Perfect:
+Active: She will have completed the task by Friday.
+Passive: The task will have been completed by her by Friday.
+
 
 
