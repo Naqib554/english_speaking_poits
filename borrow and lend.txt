@@ -1,0 +1,6 @@
+difference between borrow and lend.
+borrow:When you borrow something, you take it from someone else. It means you are getting something from them.
+example:I borrow 1000 money to my friend.(it means I reciece money of my friend).
+
+lend:When you lend something, you give it to someone else. It means you are giving something to them.
+example:I lend to you 1000 thousands money and you will pay to me just after 3 months.

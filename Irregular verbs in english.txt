@@ -1,0 +1,150 @@
+
+
+ALL FORMS OF THE VERB ARE THE SAME
+BASE FORM	SIMPLE PAST	PAST PARTICIPLE
+
+Verb	Base_Form  Simple_Past	Past_Participle	  Urdu Meaning
+bet	bet	   bet	          bet	           شرط لگانا
+cost	cost	   cost        	cost	           قیمت ہونا
+cut	cut	    cut	       cut	              کاٹنا
+hit	hit	   hit	       hit	             مارنا
+hurt	hurt	   hurt 	hurt	          زخمی کرنا
+let	let	   let	       let	           اجازت دینا
+put	put	   put	      put	             رکھنا
+shut	shut	   shut      shut	            بند کرنا
+set	set	   set	      set                    رکھنا   
+thrust	thrust	  thrust	thrust              دھکا دینا
+"He thrust his hand into his pocket to retrieve his keys."
+offset	offset	offset	برابر کرنا
+"I offset the smaller font size by increasing the margins of the page in the book."
+preset	preset	preset	تیار کرنا
+quit	quit	quit	چھوڑنا
+rid	rid	rid	نجات دینا
+shed	shed	shed	چھوڑ دینا
+slit	slit	slit	کاٹنا
+split	split	split	بانٹنا
+spread	spread	spread	پھیلانا
+spit - spat / spit - spat / spit - تھوکنا
+
+
+
+
+2ND AND 3RD FORMS OF THE VERB ARE THE SAME
+BASE FORM	SIMPLE PAST	PAST PARTICIPLE
+lose	lost	lost
+shoot(naگولی مار)	shot	shot
+get	got	got
+light	lit	lit
+sit	sat	sat
+keep	kept	kept
+sleep	slept	slept
+feel	felt	felt
+leave	left	left
+meet	met	met
+bring	brought	brought
+buy	bought	bought
+fight	fought	fought
+think	thought	thought
+catch	caught	caught
+teach	taught	taught
+sell	sold	sold
+tell	told	told
+pay	paid	paid
+make	made	made
+stand	stood	stood
+understand	understood	understood
+lend(قرض دینا)	lent	lent
+send	sent	sent
+spend	spent	spent
+build	built	built
+find	found	found
+have	had	had
+hear	heard	heard
+hold	held	held
+read	read (pronounced red)	read (pronounced red)
+say	said	said
+wring	wrung	wrung	گھسیٹنا
+wind	wound	wound	گھمانا
+weep	wept	wept	رونا
+sweep	swept	swept	صفائی کرنا
+mean	meant	meant	مطلب ہونا
+win	won	won	جیتنا
+swing	swung	swung	ہلنا
+rend	rent	rent	پھاڑنا
+relay	relaid	relaid	دوبارہ رکھنا
+sting	stung	stung	ڈسنا
+shoe	shod	shod	جوتا پہنانا
+speed	sped	sped	تیزی سے چلنا
+shine	shone	shone	چمکنا
+shoot	shot	shot	گولی مارنا
+seek	sought	sought	تلاش کرنا
+sell	sold	sold	بیچنا
+smell	smelt	smelt	بو انا
+spell	spelt	spelt	ہجے کرنا
+slide	slid	slid	چلنا
+spoil	spoilt	spoilt	خراب کرنا
+stick - stuck - stuck - چپکنا
+sow - sowed - sown / sowed - بونا
+spill - spilt / spilled - spilt / spilled - گرانا
+
+
+
+ALL FORMS OF THE VERB ARE DIFFERENT
+BASE FORM	SIMPLE PAST	PAST PARTICIPLE
+drive	drove	driven
+ride	rode	ridden
+rise	rose	risen
+write	wrote	written
+bite	bit	bitten
+hide	hid	hidden
+break	broke	broken
+choose	chose	chosen
+speak	spoke	spoken
+wake	woke	woken
+blow	blew	blown
+grow	grew	grown
+know	knew	known
+fly	flew	flown
+draw	drew	drawn
+show	showed	shown
+wear	wore	worn
+tear	tore	torn
+begin	began	begun
+drink	drank	drunk
+swim	swam	swum
+ring	rang	rung
+sing	sang	sung
+eat	ate	eaten
+fall	fell	fallen
+forget	forgot	forgotten
+give	gave	given
+see	saw	seen
+take	took	taken
+write	wrote	written	لکھنا
+wear	wore	worn	پہننا
+throw	threw	thrown	پھینکنا
+swear	swore	sworn	قسم کھانا
+strive	strove	striven	کوشش کرنا
+wake	woke	woken	جاگنا
+show	showed	shown	دکھانا
+shake	shook	shaken	ہلانا
+steal	stole	stolen	چرانا
+stink	stank	stunk	بدبودار ہونا
+slay	slew	slain	قتل کرنا
+strike - struck - stricken / struck - مارنا
+spring	sprang	sprung	چھلانگ لگانا
+overcome	overcame	overcome	فتح حاصل کرنا
+partake	partook	partaken	حصہ لینا
+plead	pled / pleaded	pled / pleaded	التجا کرنا
+prove	proved	proven / proved	ثابت کرنا
+ring	rang	rung	گھنٹی بجانا
+run	ran	run	دوڑنا
+withdraw	withdrew	withdrawn	واپس لینا
+wet	wet / wetted	wet / wetted	بھیگنا
+go	went	gone	جانا
+be	was/were	been	ہونا
+undergo	underwent	undergone	سہنا
+tear	tore	torn	پھاڑنا
+"She was heartbroken when she found her favorite dress torn."
+take	took	taken	لینا
+thrive	throve / thrived	thriven / thrived	کامیاب ہونا
