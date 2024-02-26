@@ -2,6 +2,7 @@ Fast English:
 
 
 text fast conversation:
+sth:something
 ROFL:Rollin on the floor loughing.(it mean what you said was really funny)
 IMO: In my opinoin.
 B4: Before
