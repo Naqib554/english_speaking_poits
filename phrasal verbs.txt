@@ -162,3 +162,12 @@ example:Use a spoon to take out the egg from the bowl.
 Turn down: (reduce somethingn/leave something)
 example:He turned donw his job.
 example:please turn down the music It's too loud.
+
+
+End up:( describes unexpectedly finding oneself in a specific situation or place after a series of events)
+(it emphasizes the unexpected of the final outcome)
+Example:I wanted to become a data scientist but eventually I ended up becoming an english teacher.
+Example:“I usually end up understanding 30-40% of what I hear.”
+Example:“After attending several language classes, I ended up understanding more than I expected.
+Example:"“She always ends up paying the bill when we go out to dinner."(This emphasize the unexpected behavir of her even though it might not be the norm).
+Example:"“He ended up living in a nursing home.”

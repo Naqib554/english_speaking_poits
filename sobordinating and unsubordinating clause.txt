@@ -1,14 +1,23 @@
 subordinate and unsubordinate cluase:
+dependent and independent cluase:
 
-subordinate Clause:(A dependent sentence).
-unsubordinate Clause:(Independent clause,A standalone, complete sentence).
-
-In English grammar,
-it's common to use the present tense in subordinate clauses that refer to future events.
-This is because the subordinate clause depends on the main clause, which is in the future tense.
-The present tense in the subordinate clause shows that the action or state will happen at the same time or after the main clause. For example:
-Example_1:This time, he will be well when he meets us.
-Example_2:
+Tenses in subordinate clauses
 
 
+In the subordinate clause, we usually use a present tense to refer to the future. Note that this is possible only when the verb in the main clause is in the future tense.
 
+I will call you when dinner is ready. (NOT I will call you when dinner will be ready.)
+I will start a new project after I have finished working on this project. (NOT I will start a new project after I will finish working on this project.)
+Here the verb in the main clause is in the simple future tense. The subordinate clause also refers to an action that will occur sometime in the future. However, we use a present tense in the subordinate clause.
+
+Note that present tenses are commonly used to refer to the future in clauses introduced by subordinating conjunctions like if, when, as, while, before and after.
+
+I will go to the UK after I finish my studies. (NOT I will go to the UK after I will finish my studies.)
+I will give you a call before I leave. (NOT I will give you a call before I will leave.)
+You will pass if you work hard. (NOT You will pass if you will work hard.)
+The present perfect tense in subordinate clauses
+
+The present perfect tense is often used in subordinate clauses to refer to the future. Note that this is possible only when the verb in the main clause is in the present or future tense.
+
+We will not begin the work until they have agreed to our conditions. (NOT We will not begin the work until they will have agreed to our conditions.)
+I will come back after I have had my lunch.
