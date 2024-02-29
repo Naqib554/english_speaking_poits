@@ -162,3 +162,9 @@ example:Use a spoon to take out the egg from the bowl.
 Turn down: (reduce somethingn/leave something)
 example:He turned donw his job.
 example:please turn down the music It's too loud.
+
+
+Get out:
+Example: "Hi Jameel, get out of the room."
+Example:"Get out of the pool!" shouted the lifeguard to the children playing rough near the edge."
+Example:"get out from the room it's because you are making noise"
