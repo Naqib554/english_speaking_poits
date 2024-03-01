@@ -164,6 +164,7 @@ example:He turned donw his job.
 example:please turn down the music It's too loud.
 
 
+<<<<<<< HEAD
 
 End up:( describes unexpectedly finding oneself in a specific situation or place after a series of events)
 (it emphasizes the unexpected of the final outcome)
@@ -174,3 +175,9 @@ Example:"“She always ends up paying the bill when we go out to dinner."(So, wh
 (This emphasize the unexpected behavir of her even though it might not be the norm).
 Example:"“He ended up living in a nursing home.”
 Example:"I usually end up to implement the tasks on the base of 50% understanding"
+=======
+Get out:
+Example: "Hi Jameel, get out of the room."
+Example:"Get out of the pool!" shouted the lifeguard to the children playing rough near the edge."
+Example:"get out from the room it's because you are making noise"
+>>>>>>> 305bd415b6b743cc90f80068e3774e23053c9e08
