@@ -18,71 +18,31 @@ example: he doen't show up the first class today.
 
 
 
-Get in: To go inside something, like a car or a building.
 
-Example: "Get in the car, we're going to the store."
-Get on: To climb onto something, like a bus or a bike.
 
-Example: "Let's get on the bus and go to school."
-Get off: To leave something, like a bus or a train.
-
-Example: "We'll get off at the next station."
-Get up: To stand from sitting or lying down.
-
-Example: "I get up at 8 AM every day."
-Get down: To move to a lower position.
-
-Example: "Get down from the chair carefully."
-Get away: To escape from a place.
-
-Example: "Let's get away for the weekend and relax."
-Get into: To become involved in something.
-
+phrasal verb with Take:
 Example: "I want to get into gardening this summer."
 Take in: To understand or absorb information.
-
 Example: "It takes time to take in new ideas."
 Take on: To accept responsibility or a challenge.
-
 Example: "I can't take on more work right now."
 Take out: To remove something.
-
 Example: "Take out the trash, please."
 Take off: To remove or leave, like clothes or a plane.
-
+Example: "They put off the meeting until next week."
+Take off: To remove or become successful.
 Example: "Take off your shoes when you enter the house."
 Take down: To remove or bring something down.
-
 Example: "Let's take down the decorations after the party."
 Take over: To assume control or leadership.
-
 Example: "The new manager will take over the team.
+Take off: To remove something.
+example:It's hot, so you might want to take off your jacket."
+Take out: To remove something from a specific location or container.
+example:Use a spoon to take out the egg from the bowl.
 
-Get in: داخل ہونا (Daakhil Hona)
 
-Get on: چڑھنا (Charna)
 
-Get off: اترنا (Utrna)
-
-Get up: اٹھنا (Uthna)
-
-Get down: نیچے اترنا (Neeche Utrna)
-
-Get away: بچ نکلنا (Bach Nikalna)
-
-Get into: میں چلا جانا (Mein Chala Jana)
-
-Take in: سمجھنا (Samajhna)
-
-Take on: لینا (Lena)
-
-Take out: باہر نکالنا (Bahar Nikalna)
-
-Take off: اوڑھنا (Odhna) or براہ چشم اٹھانا (Barah-e-Chashm Uthana)
-
-Take down: نیچے گرا دینا (Neeche Gira Dena)
-
-Take over: قبضہ کرنا (Qabza Karna)
 
 
 
@@ -109,8 +69,7 @@ Look after: To take care of someone or something.
 Example: "She looks after her little brother when their parents are away."
 Put off: To delay or postpone.
 
-Example: "They put off the meeting until next week."
-Take off: To remove or become successful.
+
 
 Example: "The plane will take off in 10 minutes" or "Her career took off after a successful project."
 Turn down: To reject or say no to something.
@@ -152,11 +111,7 @@ put in your metarial into the bag.
 Put your materials into the bag.
 both sentence correct grammatically.
 
-Take off: To remove something.
-example:It's hot, so you might want to take off your jacket."
 
-Take out: To remove something from a specific location or container.
-example:Use a spoon to take out the egg from the bowl.
 
 
 Turn down: (reduce somethingn/leave something)
@@ -181,3 +136,69 @@ Example: "Hi Jameel, get out of the room."
 Example:"Get out of the pool!" shouted the lifeguard to the children playing rough near the edge."
 Example:"get out from the room it's because you are making noise"
 >>>>>>> 305bd415b6b743cc90f80068e3774e23053c9e08
+
+
+
+phrasal verbs with Let:
+Let in:
+Let on:
+Let off:
+Let down:
+Let out:
+
+
+phrasal verb with Go:
+Go about:
+Go after:
+Go against:
+Go ahead:
+Go along:
+Go around:
+Go away:
+Go up:
+Go back:
+Go over:
+Go through
+
+
+
+phrasal verbs with Keep:
+keep from:
+keep out:
+keep down:
+keep on:
+keep around:
+keep away:
+keep off:
+keep in:
+
+
+
+
+
+
+
+
+Get back:
+
+Get in: To go inside something, like a car or a building.
+
+Example: "Get in the car, we're going to the store."
+Get on: To climb onto something, like a bus or a bike.
+
+Example: "Let's get on the bus and go to school."
+Get off: To leave something, like a bus or a train.
+
+Example: "We'll get off at the next station."
+Get up: To stand from sitting or lying down.
+
+Example: "I get up at 8 AM every day."
+Get down: To move to a lower position.
+
+Example: "Get down from the chair carefully."
+Get away: To escape from a place.
+
+Example: "Let's get away for the weekend and relax."
+Get into: To become involved in something.
+
+
