@@ -19,3 +19,13 @@ Example:"He only care about himself not others"
 Example:"Sarah cooked dinner for herself."
 Example:"She just does anything for herself"
 Example"She always buys golden-colored gifts for herself on her birthday."
+
+
+"Themselves"
+
+Doing something to themselves:
+"The children dressed themselves for school."
+"The athletes pushed themselves to their limits during the competition."
+Doing something for themselves:
+"The friends organized the party themselves, without any help from adults."
+"The employees decided to take a break and make themselves some coffee."
