@@ -12,3 +12,10 @@ because it's the game that belongs to all of them together.
 It is used to refer to a single male person.
 Example:"John cooked dinner for himself."
 Example:"He only care about himself not others"
+
+
+"Herself":
+"Herself" is used to refer back to a female subject, emphasizing an action she does alone or for her own benefit
+Example:"Sarah cooked dinner for herself."
+Example:"She just does anything for herself"
+Example"She always buys golden-colored gifts for herself on her birthday."
