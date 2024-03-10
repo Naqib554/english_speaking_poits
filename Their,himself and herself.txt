@@ -21,7 +21,7 @@ Example:"She just does anything for herself"
 Example"She always buys golden-colored gifts for herself on her birthday."
 
 
-"Themselves"
+"Themselves"("خود")
 
 Doing something to themselves:
 "The children dressed themselves for school."
