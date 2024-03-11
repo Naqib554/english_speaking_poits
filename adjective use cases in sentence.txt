@@ -1,0 +1,15 @@
+use cases of adjective in a sentences:
+
+1)Before the Noun:
+Most commonly, adjectives are placed before the noun they modify. For instance:
+“I have a red car.” Here, “red” is an adjective modifying the noun “car.”
+“She is wearing a beautiful dress.” In this case, “beautiful” describes the noun “dress.”
+
+2)After the Verb “to Be”:
+Adjectives can also come after the verb “to be” and the subject of the sentence:
+“The car is red.” The adjective “red” modifies the noun “car.”
+“She is beautiful.” Here, “beautiful” describes the pronoun “she.”
+
+3)After Linking Verbs:
+Adjectives can follow linking verbs such as “to look,” “to feel,” “to sound,” “to taste,” and “to smell”:
+“The soup tastes delicious.” The adjective “delicious” describes the noun “soup.

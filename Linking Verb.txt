@@ -1,0 +1,11 @@
+Linking verb:
+A linking verb is a type of verb that connects the subject of a sentence to additional information about the subject.
+Unlike action verbs (which describe actions), linking verbs do not show an action; instead, they express a state of being.
+Linkin_verb:They merely indicate existence or the state of the subject.
+
+Examples of linking verbs include “To Be,” “become,” “seem,” “appear,” “look,” “feel,” “smell,” “sound,” and “taste.”
+
+Example_1: “At college, she became an athlete and a scholar.”
+Example_2:"I saw my freind yesterday and I waved to him"
+Example_3:"I am fasting"
+Example_4:"The Moon appeared yesteday that's why we are fasting today"
