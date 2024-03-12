@@ -1,10 +1,14 @@
 "Their"
 It is used when talking about something that belongs to more than one person or
-when the gender of the subject is unknown or unspecified.
+When the gender of the person is unknown or irrelevant, "their" can be used as a gender-neutral pronoun to refer to a singular noun
 For example, if we're talking about a group of friends, we might say
-Example : "Their favorite game is soccer," 
+Example : "Their favorite game is soccer," (because it's the game that belongs to all of them together.)
 Example:"Someone left their keys on the table."(suject is unknown in this case)
-because it's the game that belongs to all of them together.
+The author signed their book.(suject is unknown in this case)
+The driver locked their car.(suject is unknown in this case)
+The chef prepared their signature dish.(suject is unknown in this case)
+The chef prepared their signature dish.(suject is unknown in this case)
+The athlete trained in their hometown.(suject is unknown in this case)
 
 
 
@@ -14,11 +18,13 @@ Example:"John cooked dinner for himself."
 Example:"He only care about himself not others"
 
 
+
 "Herself":
 "Herself" is used to refer back to a female subject, emphasizing an action she does alone or for her own benefit
 Example:"Sarah cooked dinner for herself."
 Example:"She just does anything for herself"
 Example"She always buys golden-colored gifts for herself on her birthday."
+
 
 
 "Themselves"("خود")
