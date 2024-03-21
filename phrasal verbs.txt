@@ -13,47 +13,144 @@ I found out through this video the difference between base verb and phrasal verb
 
 
 
-phrasal verb with Take:
-Example: "I want to get into gardening this summer."
-Take in: To understand or absorb information.
-Example: "It takes time to take in new ideas."
-Take on: To accept responsibility or a challenge.
-Example: "I can't take on more work right now."
-Take out: To remove something.
-Example: "Take out the trash, please."
-Take off: To remove or leave, like clothes or a plane.
-Example: "They put off the meeting until next week."
-Take off: To remove or become successful.
-Example: "Take off your shoes when you enter the house."
-Take down: To remove or bring something down.
-Example: "Let's take down the decorations after the party."
-Take over: To assume control or leadership.
-Example: "The new manager will take over the team.
-Take off: To remove something.
-example:It's hot, so you might want to take off your jacket."
-Take out: To remove something from a specific location or container.
-example:Use a spoon to take out the egg from the bowl.
+show off:("Show off" means trying to impress others by showing how good you are or what you have.)
+Example:""He always shows off his expensive car to impress his friends"
+Example:"She's constantly showing off her new designer clothes."
+Example:"Today, I showed off in class by asking a question to the teacher"
+
+show up:(Being Present)
+Being Present: When you physically appear at a location or event, you “show up.” For example:
+Example:“I’ll show up at the party tonight.”
+Example:"I showed up myself at the commitee"
+Example:"“She always shows up for family gatherings.”
+
+Being Reliable: In professional contexts, “showing up” means being reliable, accountable, and committed to your responsibilities:
+“He consistently shows up for work on time.”
+“A good employee shows up even when faced with challenges.”
+Example:"I consistently show up for the work"
+
+
+Being Attentive:
+In relationships, “showing up” means being present and attentive to someone’s needs:
+Example:“I want to be there for my friend; I’ll show up when they need me.”
+
+
+Open up:(To Begin Shooting or Start Business Hour)
+"Example: Anti-aircraft guns opened up during the attack.
+Business Context: It refers to starting business operations for the day. For instance,
+Example:“I open up the store at around 8:30 every morning.”
+
+Open up:(To Talk Honestly and Share Feelings)
+Example: When people get counseling, they are asked to open up and discuss their feelings.
+
+
+Turn down: (reduce somethingn/leave something)
+example:He turned donw his job.
+example:please turn down the music It's too loud.
+
+
+
+End up:( describes unexpectedly finding oneself in a specific situation or place after a series of events)
+(it emphasizes the unexpected of the final outcome)
+Example:I wanted to become a data scientist but eventually I ended up becoming an english teacher.
+Example:“I usually end up understanding 30-40% of what I hear.”
+Example:“After attending several language classes, I ended up understanding more than I expected.
+Example:"“She always ends up paying the bill when we go out to dinner."(So, while we know she pays the bill, the emphasis here is on the predictably unexpected behavior—she always ends up doing it)
+(This emphasize the unexpected behavir of her even though it might not be the norm).
+Example:"“He ended up living in a nursing home.”
+Example:"I usually end up to implement the tasks on the base of 50% understanding"
+
+picked up: اٹھاؤ" کا مطلب ہے پکڑنا
+example : "Please pick up your notebook from the desk and read something..
+
+Put down: To place something on a surface.
+example: put down your bag on the table.
+
+
+1)Machinery or Vehicles (STOP WORKING):
+Break down: To stop working or functioning due to failure.
+Example_1:"Our car broke down on the highway, and we had to push it off the road.”
+Example_2:"My laptop broke down while showing the presetation to the students"
+Example: "The car broke down on the way to school.""
+
+2)break down :Discussions (FAILURE):
+Example:"“When communication breaks down, misunderstandings can occur.”
+"Example: When distractions occur,  at this time communication breaks down.""
+
+3)Emotional State (CRY):(to be unable to control your feeling and start crying)
+Example"When someone gives me bad news, at this time I break down and start crying because it's my habit. I can't tolerate the upset."
+Example:"“When we gave her the bad news, she broke down and cried.”
+
+
+4)break down (divide it into smaller parts)
+Exmple_1:"Typically the Group leader break down the project"
+Example_2"“Let’s break down the problem step by step.”"
+
+5)Romoving something forcibly:
+Example:"I break down the door to open it"
+
+
+Give up: To stop trying.
+"Example_1: Don't give up on learning to ride the bike."
+"Example 2: I suggest that when you start something new, it may be a little tricky at first, but never give up, and you will achieve success."
+
+
+
+1)To Raise or Rear a Child:(bring up)
+Use: "She brought up her children with love and discipline."
+Meaning: To raise or care for a child until they reach adulthood, providing them with guidance, education, and support
+Example:"my teacher brought up me with hardwork"
+Example:"Mother brings up the children with love and a polite style."
+
+2)To Mention bring up)
+Use: "He brought up the issue of budget cuts during the meeting."
+Meaning: To introduce or mention a topic for discussion or consideration.
+Example:"I brought up the unity of the class while discussing common topics with my classmates."
+
+3)Introducing a Topic: To introduce a subject or topic in conversation, you might say:
+“Let me bring up an important point.”
+“I’d like to bring up the issue of sustainability.”
+
+4)To Cause or Induce a Reaction or Feeling:
+Use: "The news brought up painful memories for him."
+Meaning: To evoke or cause certain emotions, memories, or reactions in someone.
+Example:""Your educational journey brings up memories of childhood."
+Example:"When I came to campus, at that time, I brought up painful memories of my educational journe"
+
+
+call off:(To cancel something)
+Example_1:"He called off the meeting due to rainy weather"
+Example_2:"I call of my education due to lack of money"(for prsent simple)
+Example_3:""I called off my education due to lack of money."(for past)
+Example:_4"I am calling off my education due to lack of money."(for present continous)
+Example:"“Tomorrow’s match has been called off because of the icy weather.”"
+Example:"“The police have called off the search for the missing child until dawn tomorrow.”
 
 
 
 
 
 
-Break down: To stop working or functioning.
+"
 
-Example: "The car broke down on the way to school."
-Bring up: To mention or talk about something.
 
-Example: "She brought up her new puppy in our conversation."
-Call off: To cancel something.
 
-Example: "They called off the picnic because of the rain."
+
+
+
+
+
+
+
+ 
+
+
+
+
 Come across: To find or meet by chance.
 
 Example: "I came across an interesting book at the library."
-Give up: To stop trying.
 
-Example: "Don't give up on learning to ride a bike."
 Hold on: To wait.
 
 Example: "Hold on a minute, I'll be right back."
@@ -61,6 +158,14 @@ Look after: To take care of someone or something.
 
 Example: "She looks after her little brother when their parents are away."
 Put off: To delay or postpone.
+
+
+
+
+
+
+
+
 
 
 
@@ -93,11 +198,9 @@ They set up a meeting to discuss the project's progress.
 
 
 
-picked up: اٹھاؤ" کا مطلب ہے پکڑنا
-example : "Please pick up your notebook from the desk and read something..
 
-Put down: To place something on a surface.
-example: put down your bag on the table.
+
+
 
 Put in: To insert or place something into a container or space.
 put in your metarial into the bag.
@@ -106,23 +209,30 @@ both sentence correct grammatically.
 
 
 
+phrasal verb with Take:
+Example: "I want to get into gardening this summer."
+Take in: To understand or absorb information.
+Example: "It takes time to take in new ideas."
+Take on: To accept responsibility or a challenge.
+Example: "I can't take on more work right now."
+Take out: To remove something.
+Example: "Take out the trash, please."
+Take off: To remove or leave, like clothes or a plane.
+Example: "They put off the meeting until next week."
+Take off: To remove or become successful.
+Example: "Take off your shoes when you enter the house."
+Take down: To remove or bring something down.
+Example: "Let's take down the decorations after the party."
+Take over: To assume control or leadership.
+Example: "The new manager will take over the team.
+Take off: To remove something.
+example:It's hot, so you might want to take off your jacket."
+Take out: To remove something from a specific location or container.
+example:Use a spoon to take out the egg from the bowl.
 
-Turn down: (reduce somethingn/leave something)
-example:He turned donw his job.
-example:please turn down the music It's too loud.
 
 
-<<<<<<< HEAD
 
-End up:( describes unexpectedly finding oneself in a specific situation or place after a series of events)
-(it emphasizes the unexpected of the final outcome)
-Example:I wanted to become a data scientist but eventually I ended up becoming an english teacher.
-Example:“I usually end up understanding 30-40% of what I hear.”
-Example:“After attending several language classes, I ended up understanding more than I expected.
-Example:"“She always ends up paying the bill when we go out to dinner."(So, while we know she pays the bill, the emphasis here is on the predictably unexpected behavior—she always ends up doing it)
-(This emphasize the unexpected behavir of her even though it might not be the norm).
-Example:"“He ended up living in a nursing home.”
-Example:"I usually end up to implement the tasks on the base of 50% understanding"
 =======
 Get out:
 Example: "Hi Jameel, get out of the room."
@@ -195,47 +305,12 @@ Example: "Let's get away for the weekend and relax."
 Get into: To become involved in something.
 
 
-
-
-
-
-
-Open up:(To Begin Shooting or Start Business Hour)
-"Example: Anti-aircraft guns opened up during the attack.
-Business Context: It refers to starting business operations for the day. For instance,
-Example:“I open up the store at around 8:30 every morning.”
-
-Open up:(To Talk Honestly and Share Feelings)
-Example: When people get counseling, they are asked to open up and discuss their feelings.
-
-
-
-
 Came Up:
 Turn out:
 
 
 
-show off:("Show off" means trying to impress others by showing how good you are or what you have.)
-Example:""He always shows off his expensive car to impress his friends"
-Example:"She's constantly showing off her new designer clothes."
-Example:"Today, I showed off in class by asking a question to the teacher"
 
-show up:(Being Present)
-Being Present: When you physically appear at a location or event, you “show up.” For example:
-Example:“I’ll show up at the party tonight.”
-Example:"I showed up myself at the commitee"
-Example:"“She always shows up for family gatherings.”
-
-Being Reliable: In professional contexts, “showing up” means being reliable, accountable, and committed to your responsibilities:
-“He consistently shows up for work on time.”
-“A good employee shows up even when faced with challenges.”
-Example:"I consistently show up for the work"
-
-
-Being Attentive:
-In relationships, “showing up” means being present and attentive to someone’s needs:
-Example:“I want to be there for my friend; I’ll show up when they need me.”
 
 
 
