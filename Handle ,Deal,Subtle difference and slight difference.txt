@@ -1,7 +1,6 @@
 Deal and Handle:
 
 
-
 Deal:(Use "deal" for managing challenges in english communication)
 Example_1:"She had to deal with a difficult customer who was unhappy with the service."
 Example_2:"I had to deal with a lot of stress during the exam period."
@@ -24,11 +23,11 @@ slight difference  and subtle difference:
 1)"slight difference":
 This phrase is used when the difference between two things is small or minor
 but not necessarily difficult to perceive.
-Example_1: The temperature difference between two cups of coffee, one slightly warmer than the other.
-Example_2: The taste of two brands of chocolate, with one having a slightly richer flavor.
-Example_1: The size discrepancy between two shoes, one being marginally larger than the other.
+Example_1: The temperature difference between two cups of coffee, one slightly warmer than the other.(It doen't require deeper understanding)
+Example_2: The taste of two brands of chocolate, with one having a slightly richer flavor.(It doen't require deeper understanding)
+Example_1: The size discrepancy between two shoes, one being marginally larger than the other.(It doen't require deeper understanding)
 
 
 2)"subtle difference":
 This phrase is used when the  difference between tow things is very small that is not immediately obvious but can be discerned with careful attention.
-Example: "There is a subtle difference between 'Handle' and 'Deal' "
+Example: "There is a subtle difference between 'Handle' and 'Deal' "(It requires deeper understanding)

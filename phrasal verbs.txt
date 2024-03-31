@@ -168,7 +168,21 @@ Meaning: Used to stay connected during a phone call or conversation.
 Example: "Hold on, let me transfer your call to the appropriate department."
 Example: "Hold on a minute, I will connect you with my freind"
 
+1)"Far away": typically means a significant distance from the speaker or a point of reference.( It can refer to physical distance, emotional distance)
+Example_1:"you are far away from me"
+Example_2:"The mountains are far away."
+Example_3:"His mind seemed far away during the meeting."(During the meeting, it seemed like he wasn't really there mentally).
 
+
+1)put away:(To store something in its designated place)
+Example_1:"put away your bag in your home"
+Example_2:"I put away my book in almary"
+Exmaple_3:"he put away money in the shope"
+
+
+1)Look after: To take care of someone or something.
+Example: "She looks after her little brother when their parents are away."
+Example: "He looks after his friend's bag when their friend is not present."
 
 
 
@@ -188,21 +202,7 @@ Example: "Hold on a minute, I will connect you with my freind"
 
 
 
-Example: "Hold on a minute, I'll be right back."
-Look after: To take care of someone or something.
-
-Example: "She looks after her little brother when their parents are away."
 Put off: To delay or postpone.
-
-
-
-
-
-
-
-
-
-
 
 Example: "The plane will take off in 10 minutes" or "Her career took off after a successful project."
 Turn down: To reject or say no to something.
@@ -232,16 +232,10 @@ Set up: to arrange or organize.
 They set up a meeting to discuss the project's progress.
 
 
-
-
-
-
-
 Put in: To insert or place something into a container or space.
 put in your metarial into the bag.
 Put your materials into the bag.
 both sentence correct grammatically.
-
 
 
 phrasal verb with Take:
@@ -265,15 +259,12 @@ example:It's hot, so you might want to take off your jacket."
 Take out: To remove something from a specific location or container.
 example:Use a spoon to take out the egg from the bowl.
 
-
-
-
 =======
 Get out:
 Example: "Hi Jameel, get out of the room."
 Example:"Get out of the pool!" shouted the lifeguard to the children playing rough near the edge."
 Example:"get out from the room it's because you are making noise"
->>>>>>> 305bd415b6b743cc90f80068e3774e23053c9e08
+
 
 
 
