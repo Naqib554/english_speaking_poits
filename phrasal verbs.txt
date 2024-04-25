@@ -47,6 +47,7 @@ Example: When people get counseling, they are asked to open up and discuss their
 Turn down: (reduce somethingn/leave something)
 example:He turned donw his job.
 example:please turn down the music It's too loud.
+Example: "He turned down the invitation to the party."(for refuse to something)
 
 
 
@@ -184,6 +185,48 @@ Exmaple_3:"he put away money in the shope"
 Example: "She looks after her little brother when their parents are away."
 Example: "He looks after his friend's bag when their friend is not present."
 
+Put off: To delay or postpone.
+Example_1 "We had to put off the meeting until next week due to scheduling conflicts."
+Example_2:"I have to put off the assingnmend deadl to the next week"
+
+Cut down: to reduce or decrease.
+Example_1:"I need to cut down on my sugar intake for a healthier lifestyle."
+Example_2:"I need to cut down my negative thoughts."
+
+Go over: to review or examine.
+Example_1:"Let's go over the details of the project before the presentation."
+Example_2:"I go over the documentation and code before showing to you sir"
+Example_3:"Let you go over the book to find the importance of friday in islam"
+
+Look after: to take care of someone or something.
+Example_1:"Can you look after my cat while I'm on vacation?"
+Example_2:"are you looking after my friend in the exam hall?"
+Example 3: "Did you look after my family while I was on duty?"
+
+
+Make up: to invent or create.
+Example_1:"She made up an excuse for being late to the meeting."
+Example_2:"I made up the project before the deadline"
+Example_3:"I didn't study much last week, so I need to make up the time by studying extra this weekend."
+Example 4: "They made up the story to explain their absence from class."
+
+
+Set up: to arrange or organize.
+Example_1:They set up a meeting to discuss the project's progress.
+Example_2:"We set up a time to discuss the lab issue in our institute."
+
+
+Put in: To insert or place something into a container or space.
+put in your metarial into the bag.
+Put your materials into the bag.
+both sentence correct grammatically.
+Example:put in the usb in the appropriate port.
+"Put in the USB drive into the computer."
+"Please put in your application form into the mailbox."
+"I'll put in the ingredients for the recipe into the mixing bowl."
+
+
+
 
 
 
@@ -202,40 +245,23 @@ Example: "He looks after his friend's bag when their friend is not present."
 
 
 
-Put off: To delay or postpone.
-
-Example: "The plane will take off in 10 minutes" or "Her career took off after a successful project."
-Turn down: To reject or say no to something.
-
-Example: "He turned down the invitation to the party."
-
-Cut down: to reduce or decrease.
-I need to cut down on my sugar intake for a healthier lifestyle.
-
-Go over: to review or examine.
-Let's go over the details of the project before the presentation.
 
 
-Look after: to take care of someone or something.
-Can you look after my cat while I'm on vacation?
-
-Make up: to invent or create.
-She made up an excuse for being late to the meeting.
-
-Put off: to postpone or delay.
-They had to put off the meeting until next week.
-
-Turn down: to reject or refuse.
-He turned down the job offer because of the long commute.
-
-Set up: to arrange or organize.
-They set up a meeting to discuss the project's progress.
 
 
-Put in: To insert or place something into a container or space.
-put in your metarial into the bag.
-Put your materials into the bag.
-both sentence correct grammatically.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 phrasal verb with Take:
