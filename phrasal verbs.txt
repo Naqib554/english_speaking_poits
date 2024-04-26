@@ -129,7 +129,6 @@ Example:"“The police have called off the search for the missing child until da
 
 
 
-
 1)come across:(To Encounter or Find Something Unexpectedly)
 Example:"I came across an interesting book in the campus library"( IT mean that the speaker found an interesting book in the campus library unexpectedly.)
 Example:"I always come across my friends unintentionally"(it mean that the speaker consistently encounters their friends unintentionally.)
@@ -225,12 +224,10 @@ Example:put in the usb in the appropriate port.
 "Please put in your application form into the mailbox."
 "I'll put in the ingredients for the recipe into the mixing bowl."
 
-
 Take in: To understand or absorb information.
 Example: "It takes time to take in new ideas."
 Example:"I took in my laptop "
 Example: "I took in your situation and how you perceive the current situation."
-
 
 Take on: To accept responsibility or a challenge.
 Example: "I can't take on more work right now."
@@ -238,8 +235,17 @@ Example:"She decided to take on the role of project manager."
 Example:"Our company is not in a position to take on any new clients at the moment."
 Example:""I have decided to take on the responsibility of my marriage."
 
+Take out: To remove something.
+Example: "Take out the trash, please."
+Example:"Take out the chair from my room"
+Example:""Please take out the chair from my room."
+Example: "please take out the kichen equipment"
 
 
+
+
+
+"
 
 
 
@@ -277,8 +283,7 @@ Example:""I have decided to take on the responsibility of my marriage."
 
 
 
-Take out: To remove something.
-Example: "Take out the trash, please."
+
 Take off: To remove or leave, like clothes or a plane.
 Example: "They put off the meeting until next week."
 Take off: To remove or become successful.
