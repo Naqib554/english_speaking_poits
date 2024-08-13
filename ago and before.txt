@@ -1,0 +1,15 @@
+Ago and Before:
+there is a slight difference between the word ago and before:
+So, "ago" is often used to specify a precise duration in the past from now, while 
+"before" is used to establish a temporal relationship between two events.
+
+"Ago" is used to describe how long ago something happened from the present moment, like "three days ago."
+"She left the party two hours ago."
+"I completed my homework twenty minutes ago."
+Example : "he called me 2 days ago"
+
+
+"Before" indicates an earlier point in time relative to another event or point of reference, like "before the meeting."
+Example: "I finished my work before the deadline."
+Example: "He called me before he went to bed."
+Example: "I met him before joining the meeting"
