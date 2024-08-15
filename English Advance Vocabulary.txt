@@ -106,7 +106,8 @@ Carpentor:A carpenter is a person who makes things out of wood
 endeavour: try hard to do
 Resonate: provide additional support in the context of education
 Resonate: an environmental context resonate mean polluted water or soil
-
+contextual:  relating to the circumstances
+Unpredictably:   in a way that cannot be predicted.
 
 
 
