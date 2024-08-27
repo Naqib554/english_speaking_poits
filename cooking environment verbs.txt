@@ -1,0 +1,7 @@
+These verbs used in the cooking environment 
+
+
+Sprinkle: Scatter small amounts (e.g., salt, herbs).
+Squeeze: Press to extract juice (e.g., lemon).
+Dice: Cut into small cubes (e.g., onions).
+Slice: Cut into thin pieces (e.g., carrots).
