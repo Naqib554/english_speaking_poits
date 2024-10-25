@@ -452,7 +452,200 @@ Align: use in a satuation where two or more things match ,support or don't confl
 
 
 
-
+Voilently:using physical force intended to hurt, damage, or kill someone or something.
+Approach:To come near to someone or something .
+Projection: an estimate or forecast of a future situation based on a study of present trends.
+Charitable behavior: giving generous in behavior .
+myriad: a countless or extremely great number of people or things..
+Cope: To manage or deal with a difficult situation.
+Irritability: A state of being easily annoyed or angered.
+Optimal: The best or most favorable condition.
+Cognitive function: The mental processes related to thinking, learning, and memory.
+Impaired concentration: Reduced ability to focus or pay attention.
+Alertness: The state of being fully aware and responsive to surroundings.
+Chronic conditions: Long-term health issues or diseases.
+Immune system: The body's defense system against infections and illnesses.
+Prime: To prepare or get ready for something.
+Passages: Specific sections of a text or book.
+Sink in: To be fully understood.
+Comprehension: Understanding of something.
+Beloved:dearly loved
+Virtue: behaviour showing high moral standards
+Wounding: causing physical injury.
+somewhat: a little.
+Frail: weakened .
+Assist:avail
+Lenient: Merciful or not harsh in punishment.
+Spurred: Motivated or encouraged to act.
+Embracing: Accepting or supporting something willingly.
+Embrace: To hold someone closely in one's arms; to accept something.
+Cruet: Likely a typo; possibly intended to mean "cruel" – harsh or unkind.
+Confers: Grants or bestows something, typically a benefit.
+Confer: To give, grant, or bestow a benefit or honor.
+Severity: Harshness or strictness in treatment or conditions.
+Captive: A person who has been taken prisoner.
+Amongst: In the midst of; surrounded by.
+Nevertheless: In spite of that; however.
+Inflicted: Caused something unpleasant or harmful.
+Waged: Carried on or engaged in, usually referring to war or conflict.
+Bloodshed: The killing or wounding of people, typically in conflict.
+Prophethood: The state or condition of being a prophet.
+Unanimously: With complete agreement from all parties.
+Freel: Likely a typo; possibly meant "free" – not under control or constraint.
+Reproach: Disapproval or criticism for a fault or mistake.
+Dignity: The state of being worthy of respect.
+At par: On equal level or standing.
+Commandments: Divine rules or laws given by God.
+Grandson: The son of one’s son or daughter.
+Meritorious: Deserving praise or reward.
+Licking mud: Using the tongue to touch mud.
+Leather sock: A shoe-like covering made of leather.
+Military campaign: A series of planned military actions.
+Chicks: Baby birds.
+Screeching: Making a loud, sharp sound.
+Sustainer: One who provides and maintains everything.
+Ineffective: Not producing the desired result.
+Negate: to cancel something.
+Void: Empty or having no legal effect.
+Invalidate: To make something void or without legal force.
+Negate: To deny or invalidate something.
+Vocalize: To express or speak aloud.
+Out-of-class: Activities or learning done outside the classroom.
+Resolution: A firm decision to do something or the act of solving a problem.
+Finality: The quality of being final or conclusive.
+Implicitly: Suggested or understood without being directly stated.
+Irrelevant: Not related or applicable to the matter being considered.
+Recap: A brief summary or review of previously mentioned information.
+applicant : mean candidate
+indefinite time: unspacified time
+Greet visitors: Welcome or acknowledge people when they arrive.
+Front desk tasks: Greeting, answering calls, and scheduling.
+Forbade:prohibited
+prohibited:(not allowed)
+Evil:wrong,badness
+Over: mean can be while or duration 
+Enlarge:become large
+rough:bad
+Negate: To deny or invalidate something.
+Invalidate: To make something void or without legal force.
+Void: Empty or having no legal effect.
+Negate:to cancel something
+Ineffective: Not producing the desired result
+Empowerment: Granting authority or power to someone.
+Entrepreneurship: The process of creating and managing a new business.
+Self-sustenance: The ability to maintain oneself without external assistance.
+Empowerment event: A gathering or program aimed at boosting individuals' confidence, skills, or authority.
+Skincare product: A cosmetic item designed to improve or maintain the health of the skin.
+Reviving: Bringing something back to life or restoring it to its original state.
+Sustainable income: Earnings that can be consistently maintained over time without depletion.
+Depletion: The gradual reduction or exhaustion of resources.
+Caravan: A group of travelers, often with vehicles or animals, moving together.
+Narratives: Stories or accounts of events or experiences.
+Financial independence: The state of having enough personal wealth to live without needing to work actively for basic necessities.
+Uplift: To raise or improve someone's mood, status, or condition.
+Inconvenience: The state of being troubled or bothered, causing difficulty or discomfort.
+Domain:an area of territory owned or controlled by a particular ruler or government.
+Territory:area,region
+Aspire: To aim or seek to achieve something.
+Entrepreneur: A person who starts and
+Negotiate partnership: Talk to agree on working together.
+Mock: To imitate or make fun of someone.
+Imitate: To copy someone's actions or behavior.
+Intervention: Action taken to improve a situation.
+Burnout: Feeling very tired and stressed because of too much work.
+Occupational burnout: Extreme fatigue and stress caused by work-related pressure.
+Devoid: Completely lacking or empty of something.
+Fluctuate: To change or vary irregularly.
+Automate: To make a process operate automatically.
+Delegate: To assign tasks or responsibilities to others.
+Faking: Pretending or giving a false appearance.
+Brick: A small rectangular block used in building construction.
+Purely mechanical: Operated entirely by physical means, without involving thought or emotion.
+Angle: The space between two intersecting lines, measured in degrees.
+Right triangle: A triangle with one 90-degree angle.
+Intersecting lines: Lines that cross each other at a point.
+Radians: A unit of measuring angles,
+Radius: The distance from the center of a circle to any point on its edge
+Melanated skin: Skin that has a higher amount of melanin, resulting in a darker complexion.
+Complementary responsibility: Duties that support or complete each other.
+Heritage: Traditions, culture.
+Spark: A small flash of light.
+Giving back: Contributing to the community or helping others.
+Take up: To begin or start something, such as an activity or responsibility.
+Mock interview: A practice interview simulating a real job interview.
+Interviewee: A person being interviewed.
+Toddler: A young child, typically between 1 and 3 years old.
+Gluten: A protein found in wheat, barley, and rye.
+Well-known: Widely recognized or famous.
+Top-notch: Of the highest quality or excellence.
+Brand-new: Completely new, never used before.
+Gluten-free: Does not contain gluten, a protein found in wheat, barley, and rye.
+Scrapbook: A book for collecting and organizing photographs, clippings, and mementos.
+Clippings: Pieces cut from newspapers, magazines, or other printed materials.
+Photographs: Images captured by a camera, representing people, places, or events.
+Plough: A tool used for turning over soil in farming.
+Figure out: To understand or solve something.
+Strengthen:make or become stronger.
+High-altitude: At a great height above sea level.
+High-speed: Very fast or rapid.
+High-jump: A track and field event involving jumping over a bar.
+High-tide: The highest level of the sea at a given time.
+High-five: A celebratory gesture of slapping hands
+tremendous:Excellent
+Set: A group or collection of related items.
+Connotative: The suggested or hidden meaning of a word.
+Literal: The exact, basic meaning of a word or phrase.
+luxurious :  extremely  comfortable
+Fireplace:a place for a domestic fire
+Ignite: To catch fire or cause something to start burning.
+Warmth: The quality of being warm; a sensation of heat or a feeling of comfort and affection.
+Sensation: A feeling or perception.
+*Demonstration*: A showing or presentation of how something works.
+Snake: Represents betrayal or danger.
+Home: Suggests comfort and warmth.
+Mansion: A large, luxurious house.
+Slim: Seen as attractive and elegant.
+Skinny: Seen as unhealthy or underweight.
+House: A building for living.
+Cottage: A small, cozy house.
+Childish: Seen as immature or silly.
+Childlike: Suggests innocence and purity.
+Houseful: A house filled with people.
+Graceful: Showing elegance and smoothness.
+Elegance: The quality of being stylish and refined.
+Smoothness: The quality of being even and free from roughness.
+Roughness: The quality of being uneven or coarse.
+Underweight: Weighting less than the healthy or normal range.
+Banquet:a large meal
+no shit: disrespect ,nonsense 
+Attainment:reaching a goal or level of success.
+Temptation: A desire to do something, especially something wrong or unwise.
+Hinted: to say or do something that shows what you think or want.
+Inexpressible: Impossible to put into words.
+Victim:a person injured.
+Checklist:a list of item required 
+Dynimism:being dynamic 
+Vigour activities:full of energy activities 
+Smashed: Broken into pieces by force.
+Urges:desires
+Denote:indicate
+Denotation:literal meaning 
+Negative critique: Criticism that points out flaws.
+Points out: Highlights or draws attention to something.
+Connotation: The feeling or idea a word gives beyond its basic meaning.
+Denotation: The literal, dictionary definition of a word.(a word basic meaning)
+Reside in: To live or stay in a place.
+Residential apartment: A living space within a building designed for people to reside in.
+Overall: In total or as a whole.
+Cohesive: United or working well together as a whole.
+-Imagery**: Descriptive language that appeals to the senses.  
+Simile**: A comparison using "like" or "as."  
+Metaphor**: A direct comparison without using "like" or "as." 
+Modest: Humble, not boastful, or simple in appearance.
+Curse: A wish or expression of harm or misfortune.
+Misfortune: bad luck or the state of having bad luck.
+Self-reject: To refuse or deny oneself, often in terms of worth or opportunities.
+Oneself: A person's own self.
 
 
 
