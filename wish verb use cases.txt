@@ -1,0 +1,7 @@
+There are tow use cases of the word "wish"
+1)sub+wish+v1+obj  (it means wants)
+I wish to play cricket.
+
+
+2)sub+wish+sub+v2  (it means regret on something)
+I wish I had a car.
