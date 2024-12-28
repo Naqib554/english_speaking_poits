@@ -1,0 +1,109 @@
+three rules for reported speech :Here is a **comprehensive lesson** on **Direct and Indirect Speech**:  
+
+---
+
+### **1. Definition**  
+- **Direct Speech**: It involves quoting the exact words of the speaker, enclosed in quotation marks.  
+  *Example*: Maria said, "I am happy today."  
+- **Indirect Speech**: It involves reporting what someone said, without quoting their exact words.  
+  *Example*: Maria said that she was happy that day.  
+
+---
+
+### **2. Why Do We Use It?**  
+- To report someone's words indirectly, making them more concise and suitable for summarizing conversations or narrations.  
+- It is widely used in storytelling, formal writing, and summarizing dialogues.
+
+---
+
+### **3. Key Changes in Direct to Indirect Speech**  
+#### **A. Pronoun Changes**  
+Pronouns are adjusted to reflect the perspective of the reporter:  
+- **Direct**: John said, "I love my job."  
+- **Indirect**: John said that he loved his job.  
+
+| **Direct Pronoun** | **Indirect Pronoun** |
+|--------------------|----------------------|
+| I                 | he/she              |
+| We                | they                |
+| My                | his/her             |
+| Our               | their               |
+| You               | me/us               |
+
+---
+
+#### **B. Time and Place Changes**  
+Words indicating time and place in direct speech often change:  
+
+| **Direct Speech**       | **Indirect Speech**      |
+|-------------------------|--------------------------|
+| today                   | that day                |
+| tomorrow                | the next day            |
+| yesterday               | the previous day        |
+| now                     | then                    |
+| here                    | there                   |
+| this                    | that                    |
+| these                   | those                   |
+
+*Example*:  
+- Direct: She said, "I will visit you tomorrow."  
+- Indirect: She said that she would visit me the next day.  
+
+---
+
+#### **C. Reporting Verbs**  
+The main reporting verbs are:  
+- *Said, told, asked, requested, ordered, exclaimed, explained, advised, promised*.  
+
+---
+
+### **4. Tense Backshifting Rules**  
+Tenses in indirect speech generally shift one step back in time. Let’s review the changes for all **12 tenses**:  
+
+| **Direct Speech Tense**          | **Indirect Speech Tense**       | **Example**                                              |
+|----------------------------------|----------------------------------|----------------------------------------------------------|
+| **Present Simple**               | Past Simple                     | "I like apples." → He said that he liked apples.         |
+| **Present Continuous**           | Past Continuous                 | "I am working." → She said that she was working.         |
+| **Present Perfect**              | Past Perfect                    | "I have finished." → He said that he had finished.       |
+| **Present Perfect Continuous**   | Past Perfect Continuous         | "I have been studying." → She said she had been studying.|
+| **Past Simple**                  | Past Perfect                    | "I ate lunch." → He said he had eaten lunch.             |
+| **Past Continuous**              | Past Perfect Continuous         | "I was reading." → She said she had been reading.        |
+| **Past Perfect**                 | No Change                       | "I had slept." → He said he had slept.                  |
+| **Past Perfect Continuous**      | No Change                       | "I had been walking." → She said she had been walking.   |
+| **Future Simple (will)**         | Would                           | "I will go." → He said he would go.                     |
+| **Future Continuous**            | Would Be                        | "I will be working." → She said she would be working.    |
+| **Future Perfect**               | Would Have                      | "I will have finished." → He said he would have finished.|
+| **Future Perfect Continuous**    | Would Have Been                 | "I will have been studying." → She said she would have been studying.|
+
+---
+
+### **5. Examples for Each Case**  
+#### 1. **Present Simple → Past Simple**  
+- Direct: "I play football."  
+- Indirect: He said that he played football.  
+
+#### 2. **Present Continuous → Past Continuous**  
+- Direct: "I am writing a book."  
+- Indirect: She said that she was writing a book.  
+
+#### 3. **Present Perfect → Past Perfect**  
+- Direct: "I have completed my homework."  
+- Indirect: He said that he had completed his homework.  
+
+#### 4. **Past Simple → Past Perfect**  
+- Direct: "I visited Paris last year."  
+- Indirect: She said that she had visited Paris the previous year.  
+
+#### 5. **Future Simple → Would**  
+- Direct: "I will help you."  
+- Indirect: He said that he would help me.  
+
+---
+
+### **6. Practice Exercise**  
+Convert the following sentences:  
+1. Direct: "I am watching a movie now."  
+2. Direct: "We have met before."  
+3. Direct: "I will call you tomorrow."  
+
+Encourage students to discuss their answers for deeper understanding!
